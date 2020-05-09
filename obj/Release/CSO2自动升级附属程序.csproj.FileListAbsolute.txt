@@ -1,0 +1,7 @@
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\bin\Release\CSO2自动升级附属程序.exe.config
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\bin\Release\CSO2自动升级附属程序.exe
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\bin\Release\CSO2自动升级附属程序.pdb
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\obj\Release\CSO2自动升级附属程序.csprojAssemblyReference.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\obj\Release\CSO2自动升级附属程序.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\obj\Release\CSO2自动升级附属程序.exe
+D:\ProgramData\Microsoft\VisualStudio\repos\CSO2自动升级附属程序\obj\Release\CSO2自动升级附属程序.pdb
